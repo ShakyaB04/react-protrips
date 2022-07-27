@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-protrips/static/css/main.13f376ba.css",
+    "main.js": "/react-protrips/static/js/main.06646834.js",
+    "index.html": "/react-protrips/index.html",
+    "main.13f376ba.css.map": "/react-protrips/static/css/main.13f376ba.css.map",
+    "main.06646834.js.map": "/react-protrips/static/js/main.06646834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f376ba.css",
+    "static/js/main.06646834.js"
+  ]
+}
